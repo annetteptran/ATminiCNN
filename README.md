@@ -1,6 +1,6 @@
 # ATminiCNN
 
-Hello! This is a lightweight convolutional neural network (CNN) project built for experimentation and quick training!
+Hello! This is a lightweight convolutional neural network (CNN) project built for experimentation and quick training.
 
 This repository includes:
 - A tiny custom CNN implemented from scratch (`model_baseline.py`)
@@ -48,9 +48,7 @@ This repository includes:
 
 ## Results!
 
-Training was run for **10 epochs** on the **Tiny CIFAR subset**, a reduced dataset containing only **200 training images** and **50 validation images**.
-
-Because the dataset is extremely small and the model is intentionally lightweight, accuracy is expected to be modest.
+Training was run for **10 epochs** on the **Tiny CIFAR subset**, a reduced dataset containing only **200 training images** and **50 validation images**. Because the dataset is extremely small and the model is intentionally lightweight, accuracy is expected to be modest.
 
 ### Final Performance
 - **Best Validation Accuracy:** **34.5%**
